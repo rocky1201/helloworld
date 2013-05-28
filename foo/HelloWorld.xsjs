@@ -1,2 +1,2 @@
-$.response.setBody("From Palo Alto with Love");
+$.response.setBody("From Palo Alto with love");
  
