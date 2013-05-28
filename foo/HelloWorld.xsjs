@@ -1,2 +1,2 @@
-$.response.setBody("Hello SAPphire ");
+$.response.setBody("From Palo Alto with Love");
  
